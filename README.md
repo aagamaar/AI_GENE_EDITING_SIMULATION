@@ -1,3 +1,7 @@
+# The link to the project:
+https://ai-gene-editing-simulation.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
